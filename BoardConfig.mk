@@ -28,7 +28,7 @@
 DEVICE_PATH := device/xiaomi/whyred
 
 # Kernel
-TARGET_KERNEL_CONFIG := whyred_defconfig
+TARGET_KERNEL_CONFIG := whyred-perf_defconfig
 
 # RIL
 TARGET_USES_OLD_MNC_FORMAT := true
