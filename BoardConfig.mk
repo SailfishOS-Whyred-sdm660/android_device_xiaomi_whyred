@@ -34,7 +34,7 @@ TARGET_KERNEL_CONFIG := whyred-perf_defconfig
 TARGET_USES_OLD_MNC_FORMAT := true
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2018-11-01
+VENDOR_SECURITY_PATCH := 2099-12-31
 
 # Inherit the proprietary files
 -include vendor/xiaomi/whyred/BoardConfigVendor.mk
